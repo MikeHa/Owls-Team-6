@@ -2,6 +2,22 @@
 
 
 /* Mike's CSS*/
+html, body {
+    height: 100%;
+}
+
+.bg-red {
+	background-color: #C63D0F;
+}
+
+.white-text {
+	color: white;
+}
+
+.row20px {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
 
 /* J. Stouts CSS*/

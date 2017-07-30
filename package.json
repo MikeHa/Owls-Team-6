@@ -1,0 +1,20 @@
+{
+  "name": "owls-team-6",
+  "version": "1.0.0",
+  "description": "Chingu Cohorts Project for Tier 1: Build a landing page for an imaginary bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicewon/Owls-Team-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicewon/Owls-Team-6/issues"
+  },
+  "homepage": "https://github.com/alicewon/Owls-Team-6#readme"
+}

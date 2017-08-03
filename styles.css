@@ -1,6 +1,6 @@
 /* Alice's CSS*/
 .navbar {
-	
+
 }
 
 /* Mike's CSS*/
@@ -22,14 +22,9 @@ html, body {
 	padding-bottom: 20px;
 }
 
-
-/* J. Stouts CSS*/
-
-
-/* Ryan's CSS*/
-
-footer {
+.footer {
 	width: 100%;
 	background-color:#222;
 	padding: 60px 0px;
+	color: white;
 }
